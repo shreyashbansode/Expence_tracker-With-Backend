@@ -1,0 +1,20 @@
+.date{
+    border: 2px solid white;
+    width: 74%;
+    text-align: center;
+    background-color:rgb(37, 36, 36);
+    color: white;
+    height: 80%;
+    box-shadow: -1px -1px 2px white;
+    line-height: 6px; 
+    padding-bottom:1%;
+    border-radius: 10px; 
+}
+
+.date h3{
+   font-size: 1rem; 
+}
+ 
+
+
+ 

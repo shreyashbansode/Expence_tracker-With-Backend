@@ -1,0 +1,64 @@
+.black-bg{
+    background-color:rgb(20, 19, 19);
+    width:97%;
+    box-sizing: border-box;
+    margin: auto;
+    padding:0% 2%;
+    border-radius:5px;
+    margin-top:2%
+
+}
+.exp_list{
+    background-color: rgba(70, 68, 91, 0.866);
+display: grid;
+grid-template-columns: 3fr 2fr 2fr 2fr 2fr;
+    justify-content: center;
+    align-items: center;
+    height: 122px;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 5px;
+    border-radius:5px;
+    text-align: center;
+
+
+}
+
+
+.exp_list div{
+   
+    color: white;
+
+}
+
+
+.price{
+    background-color:rgb(58, 4, 83);
+    height: 43%;
+    width: 86%;
+    text-align: center;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    border: 1px solid white;
+    border-radius: 5px;
+
+}
+
+
+
+.d-none{
+    display: none;
+}
+
+.d-block{
+    display: block;
+}
+
+
+
+
+.expanceOuter{
+    overflow-y: scroll;
+    height: 68vh;
+}

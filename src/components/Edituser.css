@@ -1,0 +1,17 @@
+.outer-main{
+
+    height:100vh;
+    /* display:grid; */
+
+}
+.outer-box1{
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+  justify-content: center;
+  align-items: center;
+  height: 40vh;
+  margin : auto;
+  background-color:lime;
+  text-align: center;
+  width:60%;
+}
